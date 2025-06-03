@@ -89,3 +89,7 @@ Packages/com.distantlands.cozy.core
 !Assets/Scenes/**
 !Assets/Animations/**
 !Assets/InputActions/**
+
+# Ensure package are not tracked
+Packages/*.zip
+Packages/com.distantlands.cozy.core
